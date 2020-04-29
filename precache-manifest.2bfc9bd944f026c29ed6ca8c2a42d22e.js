@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "446045584a18f6be682e0456b9a58ff5",
+    "revision": "772e128dd26079c0cdfdfcb56724f951",
     "url": "/oro/index.html"
   },
   {
-    "revision": "f9d145cb33b39c2554e4",
+    "revision": "e5918fb1ec9abd80da4a",
     "url": "/oro/static/css/main.34c75872.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oro/static/js/2.5e0b298e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9d145cb33b39c2554e4",
-    "url": "/oro/static/js/main.084a5968.chunk.js"
+    "revision": "e5918fb1ec9abd80da4a",
+    "url": "/oro/static/js/main.929b0f21.chunk.js"
   },
   {
     "revision": "d392b1cda65813f95948",
