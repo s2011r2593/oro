@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oro/static/css/main.34c75872.chunk.css",
-    "main.js": "/oro/static/js/main.4516d770.chunk.js",
-    "main.js.map": "/oro/static/js/main.4516d770.chunk.js.map",
+    "main.js": "/oro/static/js/main.0e12afa8.chunk.js",
+    "main.js.map": "/oro/static/js/main.0e12afa8.chunk.js.map",
     "runtime-main.js": "/oro/static/js/runtime-main.88a12fc6.js",
     "runtime-main.js.map": "/oro/static/js/runtime-main.88a12fc6.js.map",
     "static/js/2.5e0b298e.chunk.js": "/oro/static/js/2.5e0b298e.chunk.js",
     "static/js/2.5e0b298e.chunk.js.map": "/oro/static/js/2.5e0b298e.chunk.js.map",
     "index.html": "/oro/index.html",
-    "precache-manifest.916a65a53ac22df6ea83099053c6623d.js": "/oro/precache-manifest.916a65a53ac22df6ea83099053c6623d.js",
+    "precache-manifest.2f65526d370aadf9e48041d2aca7aff4.js": "/oro/precache-manifest.2f65526d370aadf9e48041d2aca7aff4.js",
     "service-worker.js": "/oro/service-worker.js",
     "static/css/main.34c75872.chunk.css.map": "/oro/static/css/main.34c75872.chunk.css.map",
     "static/js/2.5e0b298e.chunk.js.LICENSE.txt": "/oro/static/js/2.5e0b298e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.88a12fc6.js",
     "static/js/2.5e0b298e.chunk.js",
     "static/css/main.34c75872.chunk.css",
-    "static/js/main.4516d770.chunk.js"
+    "static/js/main.0e12afa8.chunk.js"
   ]
 }
